@@ -1,5 +1,5 @@
 #Today's Problems: 
-#1️⃣ Second Largest Element
+#1️⃣ Second Largest Element 
 class Solution:
     def getSecondLargest(self, arr):
         first = second = -1
